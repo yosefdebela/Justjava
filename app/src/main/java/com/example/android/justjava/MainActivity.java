@@ -1,5 +1,5 @@
 package com.example.android.justjava;
-
+//just java project.
 /**
  * IMPORTANT: Make sure you are using the correct package name.
  * This example uses the package name:
