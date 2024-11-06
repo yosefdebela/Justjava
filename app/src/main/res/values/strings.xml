@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Just Java</string>
+
+    <string name="btn">Button</string>
+    <string name="message">Hello Geeks!! This is a Button.</string>
+    <string name="Quantity">Quantity\n</string>
+
+</resources>
